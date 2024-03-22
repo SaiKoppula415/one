@@ -9,10 +9,6 @@
 	<h2 style="color: green; font-size: 40px;" align="center">THIS IS OUR DEPLOYMENT</h2>
 	<h2 style="color: black; font-size: 40px;" align="center">WE INTEGRATED NEXUS WITH JENKINS</h2>
 	<h2 style="color: blue; font-size: 40px;" align="center">THIS IS NEXUS TOPIC</h2>
-	<h2 style="color: violet; font-size: 40px;" align="center">Deployed using jenkins</h2>
-	<h2 style="color: cyan; font-size: 40px;" align="center">Deployed using jenkins Poll scm </h2>
-	
-	
 	
 	
 	
